@@ -7,10 +7,10 @@ Based upon : https://www.udemy.com/course/docker-kubernetes-the-practical-guide/
 
 Shows the list of running containers
 
-<code>
+```
 CONTAINER ID   IMAGE                       COMMAND                  CREATED          STATUS          PORTS                    NAMES
 258a8b3d4356   c0e                         "docker-entrypoint.s…"   17 minutes ago   Up 17 minutes   0.0.0.0:8081->8081/tcp   flamboyant_faraday
-<code>
+```
 
 ---
 
